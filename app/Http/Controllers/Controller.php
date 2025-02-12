@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 
 // Kelas Controller ini bersifat abstrak, yang berarti kelas ini tidak dapat diinstansiasi secara langsung.
 // Kelas ini berfungsi sebagai kelas dasar yang dapat diwarisi oleh controller-controller lain di aplikasi ini.
-// Biasanya, controller lainnya akan mewarisi kelas ini untuk mengakses properti atau metode umum yang dapat digunakan di semua controller.
+// Biasanya, controller lainnya akan mewarisi kelas ini untuk mengakses properti atau metode umum yang dapat digunakan di semua controller..
 abstract class Controller
 {
     // Kelas ini masih kosong, namun biasanya kelas seperti ini digunakan untuk mendefinisikan logika umum
